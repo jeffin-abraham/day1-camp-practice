@@ -9,7 +9,7 @@ Time spent: **3** hours spent in total.
 ## User Stories
 
 * [x] User can **view the title page** of the manga before they start reading.
-* [x] User's **contact us** using the survey form at the end of the webpage.
+* [x] User can **contact us** using the survey form at the end of the webpage.
 
 The following **optional** features are implemented:
 
