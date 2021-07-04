@@ -19,9 +19,9 @@ The following **optional** features are implemented:
 
 Here's some screenshot of the webpage:
 
-<img src='ss1' title='1st Screenshot' width='' alt='1st Screenshot' />
-<img src='ss2' title='2nd Screenshot' width='' alt='2nd Screenshot' />
-<img src='ss3' title='3rd Screenshot' width='' alt='3rd Screenshot' />
+<img src='ss1.png' title='1st Screenshot' width='' alt='1st Screenshot' />
+<img src='ss2.png' title='2nd Screenshot' width='' alt='2nd Screenshot' />
+<img src='ss3.png' title='3rd Screenshot' width='' alt='3rd Screenshot' />
 
 
 ## Notes
