@@ -26,4 +26,4 @@ Here's some screenshot of the webpage:
 
 ## Notes
 
-First webpage built with Bay Valley Tech.
+First practice/homework webpage built with Bay Valley Tech.
